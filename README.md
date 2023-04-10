@@ -2,7 +2,7 @@
 
 I'm currently working on PowerSchool SIS related scripts and customizations.
 
-My <a rel="me" href="https://mastodon.social/@sriehl">Mastodon</a> profile.
+<p>My <a rel="me" href="https://mastodon.social/@sriehl">Mastodon</a> profile.</p>
 
 <!--
 **sriehl/sriehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
